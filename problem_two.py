@@ -1,4 +1,6 @@
 import random
+import os
+cwd = os.getcwd()
 
 animals = {'Land' : 'Panda', 'Water' : 'Octopus', 'Ice' : 'Mammoth', 'Air' : 'Owl', 'Fire' : 'Dragon', 'Space': 'Gorilla'}
 all_kingdoms = ["Air", "Land", "Ice", "Fire", "Water", "Space"]
@@ -26,7 +28,7 @@ def valar_morghulis(competing):
         print("Allies for",kingdom,count)
 
 
-messages_file = "/home/adityakarnik/Downloads/Python/GeekTrustTest/boc-messages.txt"
+messages_file = cwd+"/boc-messages.txt"
 with open(messages_file,"r") as m:
     for message in m:
         message = message.replace(",\n","").replace("\"","").strip()
