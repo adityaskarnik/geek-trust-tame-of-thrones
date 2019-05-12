@@ -4,9 +4,13 @@ GeekTrust Problem Set 5
 2) Each has the given set of question to be asked
 
 3) Sample Input/Output data
+
 Who is the ruler of Southeros?
+
 Output: None
+
 Allies of King Shan?
+
 Output: None
 
 Input Messages to kingdoms from King Shan:
