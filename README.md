@@ -10,11 +10,11 @@ Allies of King Shan?
 Output: None
 
 Input Messages to kingdoms from King Shan:
-Input: Air, “Let’s swing the sword together”
-Input: Land, “Die or play the tame of thrones”
-Input: Ice, “Ahoy! Fight for me with men and money”
-Input: Water, “Summer is coming”
-Input: Fire, “Drag on Martin!”
+Input: Air, "Let’s swing the sword together"
+Input: Land, "Die or play the tame of thrones"
+Input: Ice, "Ahoy! Fight for me with men and money"
+Input: Water, "Summer is coming"
+Input: Fire, "Drag on Martin!"
 
 Who is the ruler of Southeros?
 Output: King Shan
